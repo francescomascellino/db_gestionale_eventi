@@ -1,3 +1,5 @@
+![DB Structure](db_gestionale_eventi.png)
+
 Selezionare tutti gli utenti con il ruolo di Admin nella tabella roles
 ```sql
 SELECT
